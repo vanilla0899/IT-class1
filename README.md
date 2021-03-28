@@ -24,6 +24,8 @@
 <img width="200" height="200" src="./picture/고양이.jpg"></img>
 
 
+## 4주차 과제
+<img width="200" height="200" src="./picture/4주차과제.PNG"></img>
 
 
 
